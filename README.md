@@ -1,2 +1,2 @@
 # Bootstrap-1
-In this file you can find how bootstrap card works; there are 3 cards that explain three kind of italian pasta.
+In this file you can find how bootstrap card works. There are three cards that explain some kinds of italian pasta.
